@@ -12,3 +12,4 @@ else
 echo "Sorry $name you can't be admitted"
 fi
 # Check updates
+deployment4
