@@ -11,6 +11,4 @@ echo "You're an Engineer"
 else
 echo "Sorry $name you can't be admitted"
 fi
-deployment 5 master
-deployment4
-Depplot Trial
+# Check updates
