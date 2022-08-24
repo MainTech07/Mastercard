@@ -3,6 +3,7 @@
 #It will also help specify each members roles
 echo "Enter your name"
 read name
-echo "Enter your role"
+echo "Enter your role (DevOPs Engineer or Developer)"
 read role
-echo "$name, you can now push to the visa repository"
+echo "$name, you registered as a $role"
+echo "you can now push to the visa repository"
