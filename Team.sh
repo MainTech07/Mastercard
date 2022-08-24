@@ -2,4 +2,5 @@
 # Token = *************************
 # git pull --rebase vs master
 # this command is what has been giving us the error, 
-# the command allows us to tell our github repository that another user wants to send something to the same repository allow them.
+# the command allows us to tell our github repository that another user wants to send something to the same repository allow them
+# this is a useful command.
