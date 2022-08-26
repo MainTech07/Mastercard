@@ -7,3 +7,4 @@ echo "Enter your role (DevOPs Engineer or Developer)"
 read role
 echo "$name, you registered as a $role"
 echo "you can now push to the visa repository"
+echo "DevOps is the future"
